@@ -1,0 +1,7 @@
+tr > td {
+    white-space: nowrap;
+    line-height: 2em;
+}
+tr > td:nth-child(2) {
+    width: 100%
+}
